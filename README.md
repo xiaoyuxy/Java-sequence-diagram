@@ -26,3 +26,6 @@ github
 - https://github.com/jensnerche/TraceToPlantUml/blob/master/
 README.md
 - I used two third-party library as mentioned in section 1
+
+## Result Example:
+![diagram](https://user-images.githubusercontent.com/17173579/30469004-3391ea34-99a3-11e7-8f6a-9fe96ab91af2.png)
